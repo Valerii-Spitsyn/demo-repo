@@ -1,4 +1,4 @@
 # demo-repo
 Demo
 
-Discription example 
+Discription example.
